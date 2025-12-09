@@ -38,26 +38,6 @@ Git & GitHub
 
 Figma (if UI/UX prototyping was done)
 
-📁 Project Structure
-
-your-project/
-│── index.html
-│── about.html
-│── projects.html
-│── contact.html
-│
-├── css/
-│   ├── style.css
-│   └── responsive.css
-│
-├── js/
-│   ├── script.js
-│
-├── images/
-│   ├── profile.jpg
-│   └── project-images/
-│
-└── README.md
 
 🔗 Live Demo
 🚨 Check out the live portfolio here:
